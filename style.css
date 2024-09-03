@@ -1,0 +1,29 @@
+
+#two
+{
+    background-color: rgb(39, 134, 141);
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin: 0px;
+}
+#two h1
+{
+    color: white;
+}
+#two h4
+{
+    color: white;
+}
+#four
+{
+    background-color: rgb(1, 78, 122);
+    padding: 10px;
+}
+#four h4
+{
+    color: white;
+}
+#three
+{
+    background-color: rgb(196, 196, 196);
+}
